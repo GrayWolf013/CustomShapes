@@ -11,7 +11,7 @@ struct TriangleShapes: View {
     var body: some View {
         VStack {
             VStack {
-                Text("Draw custom Shapes with Shapes")
+                Text("Draw Triangle Shapes with Shapes")
                     .font(.title)
                     .fontWeight(.semibold)
                     .foregroundStyle(.orange)

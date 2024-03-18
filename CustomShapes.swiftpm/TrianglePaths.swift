@@ -11,7 +11,7 @@ struct TrianglePaths: View {
     var body: some View {
         VStack {
             VStack {
-                Text("Draw custom shapes with Path")
+                Text("Draw Triangle shapes with Path")
                     .font(.title)
                     .fontWeight(.semibold)
                     .foregroundStyle(.orange)
